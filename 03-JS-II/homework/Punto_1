@@ -1,0 +1,32 @@
+En un archivo de texto separado que debes crear,
+ escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+Conceptos
+>Uso del ciclo "for": 
+EL ciclo "for" es usado para hacer procesos repetitivos con el cambio de un iterador.
+La sintaxis del ciclo for es como decir: "Repetir el proceso desde 'i' igual  0, hasta 'i' igual N, variando i en pasos determinados.
+La sintaxis en JS es:
+for(var i = 0;i === N; i = i + paso){
+    // Aca adentro se pone el proceso que se debe hacer para cada valor de i
+}
+> Uso del operador lógico &&:
+Este simbolo representa el operador lógico "AND" que permite realizar operaciones booleanas.
+Existe la tabla de verdad del operador lógico "AND".
+true AND true ---> true
+true AND false ---> false
+false AND false --> true
+false AND true ---> false
+Otro ejemplo seria: true AND true AND false ---> false. Con una condición que sea 'false', todo dara 'false'. 
+>Uso del operador lógico ||:
+Este simbolo representa el operador lógico "OR" que permite realizar operaciones booleanas.
+Existe la tabla de verdad del operador lógico "OR".
+true OR true ---> true
+true OR false ---> true
+false OR false --> false
+false OR true ---> true
+Otro ejemplo seria: false OR false OR true ---> true. Con una condición que sea 'true', todo dara 'true'.
+>Uso del operador lógico !:
+Este simbolo representa el operador lógico "NOT" que permite realizar operaciones booleanas.
+Existe la tabla de verdad del operador lógico "NOT".
+NOT(true) ---> false
+NOT(false) ---> true
+NOT(NOT(true))  --> true
