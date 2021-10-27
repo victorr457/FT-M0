@@ -1,0 +1,5 @@
+Conceptos:
+prototype: Es una propiedad de las clases declaradas en forma de funciones constructorque permite agregar funcionalidades a estas clases.
+Esto viene desde las clases padres de los objetos
+Construtor: Es la parte de las clases donde se declaran las propiedades de las clases.
+En esta parte es donde se puede colocar valores por defecto de las propiedades de los objetos.
