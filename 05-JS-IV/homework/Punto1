@@ -1,0 +1,10 @@
+Conceptos:
+*Objetos: Es una coleccion de propiedades y métodos  
+*Propiedades de los objetos: Es una asociacion entre una nombre (o clave) y un valor. Estos pueden ser cualquier tipo de variable. Incluso puede guardar arrays.
+*Métodos de los objetos: Los métodos de los objetos son propiedades que guardan funciones.
+*Bucle `for…in`: Permite recorrer las propiedades de los objetos y asi recorrer los valores de las propiedades del objeto
+*Notación de puntos vs notación de corchetes: Para acceder a las propiedades o métodos de los objetos podemos usar la notacion de de corchetes o la notacion de punto. 
+Si el objeto "obj1", tiene una propiedad llamada "prop1". 
+Entonces conocer el valor de la propiedad "prop1" del objeto "obj1" podemos acceder asi.
+1) Con la notación de corchetes seria: obj1['prop1"]
+2) Con la notación de punto, seria: obj1.prop1.
